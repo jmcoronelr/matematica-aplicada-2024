@@ -39,6 +39,8 @@ These dependencies are listed in the `requirements.txt` file. To install them, f
    ```bash
    pip3 install -r requirements.txt
    ```
+4. **Decompress the files** from the archive.zip:
+   Save the file train_data.csv and test_data.csv in the main folder "Juan Marcelo Coronel Recalde"
 
 ## Usage
 

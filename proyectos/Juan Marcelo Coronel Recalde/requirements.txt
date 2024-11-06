@@ -1,0 +1,5 @@
+nltk
+scikit-fuzzy
+numpy
+pandas
+tqdm
